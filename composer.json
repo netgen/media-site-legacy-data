@@ -1,6 +1,6 @@
 {
-    "name": "netgen/media-site-data",
-    "description": "Demo data for Netgen Media Site",
+    "name": "netgen/media-site-legacy-data",
+    "description": "Demo data for Netgen Media Site with Ibexa and eZ Publish Legacy",
     "license": "GPL-2.0-only",
     "authors": [
         {
@@ -10,7 +10,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "1.8.x-dev"
+            "dev-master": "2.0.x-dev"
         }
     }
 }
